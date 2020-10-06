@@ -1,0 +1,75 @@
+ 1  touch devops
+    2  ls
+    3  cd .
+    4  clear
+    5  pwd
+    6  ls
+    7  ls -a
+    8  ls -ll
+    9  mkdir DevOps-Softwares
+   10  cd DevOps-Softwares/
+   11  ls
+   12  ls
+   13  ls
+   14  touch file1 file2
+   15  cat file1
+   16  vi file1
+   17  cat file1
+   18  pwd
+   19  cd ..
+   20  cd ..
+   21  ls
+   22  cd j
+   23  ls
+   24  cd DevOps-Softwares/
+   25  ls
+   26  mkdir demo
+   27  cp file1 demo/
+   28  ls
+   29  cd demo/
+   30  ls
+   31  cd
+   32  cd j
+   33  ls
+   34  cd ..
+   35  ls
+   36  cd ..
+   37  ls
+   38  cd ..
+   39  ls
+   40  cd j
+   41  cd DevOps-Softwares/demo/
+   42  ls
+   43  rm file1
+   44  ls
+   45  cd ..
+   46  ls
+   47  rm demo/
+   48  rm -rf demo/
+   49  ls
+   50  mv file1 renamefile
+   51  mkdir demo
+   52  mv renamefile demo/
+   53  ls -ll
+   54  chmod 777 file2
+   55  ls -ll
+   56  top
+   57  ps -ef
+   58  lsc
+   59  ls
+   60  rm -rf demo/
+   61  ls
+   62  J:\DevOps-Softwares\apache-maven-3.6.3\bin
+   63  mkdir maven_practice
+   64  cd maven_practice/
+   65  ls
+   66  pwd
+   67  mvn archetype:generate
+   68  ls
+   69  cd google.com/
+   70  ls
+   71  mvn compile
+   72  mvn test
+   73  mvn clean
+   74  mvn package
+   75  history
